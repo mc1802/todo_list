@@ -25,7 +25,7 @@ This is a simple project created to practice JavaScript, CSS, and HTML. The proj
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/simple-todo-list.git
+   git clone https://github.com/mc1802/todo_list.git
 
 ## Usage
 
